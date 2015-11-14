@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = u'ctaodream'
 SITENAME = u'NSLOG CLUB !'
-#SITEURL = 'http://www.nslog.club'
+SITEURL = 'http://www.nslog.club'
 SITESUBTITLE = 'Coding every day == smile every day !'
 
 MENUITEMS = (

@@ -4,57 +4,57 @@ xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitem
 xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-<loc>/</loc>
-<lastmod>2015-11-14T04:00:09-00:00</lastmod>
+<loc>http://www.nslog.club/</loc>
+<lastmod>2015-11-14T11:13:03-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/archives.html</loc>
-<lastmod>2015-11-14T04:00:09-00:00</lastmod>
+<loc>http://www.nslog.club/archives.html</loc>
+<lastmod>2015-11-14T11:13:03-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/tags.html</loc>
-<lastmod>2015-11-14T04:00:09-00:00</lastmod>
+<loc>http://www.nslog.club/tags.html</loc>
+<lastmod>2015-11-14T11:13:03-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/categories.html</loc>
-<lastmod>2015-11-14T04:00:09-00:00</lastmod>
+<loc>http://www.nslog.club/categories.html</loc>
+<lastmod>2015-11-14T11:13:03-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/articles/2015/11/14/fist-page/</loc>
-<lastmod>2015-11-14T01:37:00+08:00</lastmod>
+<loc>http://www.nslog.club/articles/2015/11/14/second-test/</loc>
+<lastmod>2015-11-14T00:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
 </url>
 
 <url>
-<loc>/category/test.html</loc>
-<lastmod>2015-11-14T01:37:00+08:06</lastmod>
+<loc>http://www.nslog.club/category/test.html</loc>
+<lastmod>2015-11-14T00:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/tag/test.html</loc>
-<lastmod>2015-11-14T01:37:00+08:06</lastmod>
+<loc>http://www.nslog.club/tag/test.html</loc>
+<lastmod>2015-11-14T00:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/author/ctaodream.html</loc>
-<lastmod>2015-11-14T01:37:00+08:06</lastmod>
+<loc>http://www.nslog.club/author/ctaodream.html</loc>
+<lastmod>2015-11-14T00:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
